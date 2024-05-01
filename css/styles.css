@@ -265,7 +265,7 @@ h2 {
 
 #footerWrapper {
   background-color: #BF7D65;
-  color: white;
+  color: black;
 }
 
 footer {
@@ -274,15 +274,15 @@ footer {
 footer .contact p {
   font-size: 1.2rem;
   margin: 0.5rem;
-  color: white;
+  color: black;
   text-align: center;
 }
 footer .contact p a {
-  color: white;
+  color: black;
   text-align: center;
 }
 footer .contact ion-icon {
-  color: white;
+  color: black;
   padding-right: 5px;
 }
 footer .social {
@@ -291,11 +291,11 @@ footer .social {
 }
 footer .social a {
   display: block;
-  border: solid 1px white;
+  border: solid 1px black;
   font-size: 2rem;
   margin: 0.5rem;
   padding: 0.5rem;
-  color: white;
+  color: black;
   line-height: 100%;
 }
 footer .social a:hover {
